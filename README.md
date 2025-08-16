@@ -1,13 +1,9 @@
-# Self-Driving Car Simulation 🚗💡  
+# Self-Driving Car Simulation 
 
 This repository contains the code and resources for building a **Self-Driving Car Simulation** step by step.  
 The project is structured as a learning journey, where each part of the course introduces new concepts and code.  
 
 ---
-
-## 📚 Course Structure  
-
-The code will be released progressively in the following parts:
 
 1. **Car Driving Mechanics**  
    - Implement the basic car object and physics (acceleration, steering, braking, friction).  
@@ -55,3 +51,4 @@ The code will be released progressively in the following parts:
    ```bash
    git clone https://github.com/rickymnit/self-driving-car-simulation.git
    cd self-driving-car-simulation
+
